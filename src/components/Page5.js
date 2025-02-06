@@ -97,7 +97,7 @@ const Page5 = () => {
         data: Array.from({ length: 12 }, () => Math.random() * 3 - 1.5),
         fill: true,
         borderColor: '#FFBB28',
-        backgroundColor: 'rgba(255, 189, 47, 0.5)',
+        backgroundColor: 'rgba(255, 187, 40, 0.5)',
       },
       {
         label: 'upper_50',
