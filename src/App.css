@@ -1,0 +1,31 @@
+.App {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #333;
+}
+
+.navbar {
+  background-color: #757575; /* Gri renk kodu */
+  border-radius: 15px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  width: calc(100% - 40px); /* Kenarlardan ayırmak için genişliği azaltıldı */
+  height: 50px; /* Daha küçük hale getirildi */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 100%;
+  padding: 2rem;
+}
+
+.full-width-paper {
+  width: 100%;
+  padding: 20px;
+}
